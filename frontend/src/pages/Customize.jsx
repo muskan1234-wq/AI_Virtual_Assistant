@@ -1,5 +1,5 @@
 import { RiImageAddLine } from "react-icons/ri";
-import image from "../assets/image.png.jfif";
+import image from "C:\Users\XPRISTO\Desktop\MERN Stack\frontend\public\assets\image.png.jfif";
 import image1 from "../assets/image1.png.jfif";
 import image3 from "../assets/image3.png.jfif";
 import image4 from "../assets/image4.png.jfif";
