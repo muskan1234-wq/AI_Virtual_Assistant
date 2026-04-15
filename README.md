@@ -56,41 +56,39 @@ The system uses React for frontend, Node.js + Express for backend, and MongoDB f
 
 ## 📂 Project Structure
 
-VirtualAssistant/
-│
-├── client/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── pages/
-│ │ ├── context/
-│ │ ├── hooks/
-│ │ └── utils/
-│ │
-│ ├── App.jsx
-│ └── main.jsx
-│
-├── server/
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ ├── middleware/
-│ └── config/
-│
-├── .env
-├── package.json
-└── README.md
+## 📂 Project Structure
 
-yaml
-Copy code
+- VirtualAssistant
+  - client
+    - src
+      - components
+      - pages
+      - context
+      - hooks
+      - utils
+    - App.jsx
+    - main.jsx
 
----
+  - server
+    - controllers
+    - models
+    - routes
+    - middleware
+    - config
+
+  - .env
+  - package.json
+  - README.md
+--
 
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone Repository
 ```bash
+
 git clone https://github.com/your-username/virtual-assistant.git
 cd virtual-assistant
+
 2️⃣ Backend Setup
 bash
 Copy code
