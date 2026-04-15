@@ -56,8 +56,6 @@ The system uses React for frontend, Node.js + Express for backend, and MongoDB f
 
 ## 📂 Project Structure
 
-## 📂 Project Structure
-
 - VirtualAssistant
   - client
     - src
