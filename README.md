@@ -95,28 +95,22 @@ npm install
 npm run dev
 Create .env file:
 
-ini
-Copy code
+
 MONGO_URI=your_mongodb_url
 JWT_SECRET=your_secret_key
 PORT=5000
+
 3️⃣ Frontend Setup
-bash
-Copy code
+
+
 cd client
 npm install
 npm run dev
 Open:
 
 arduino
-Copy code
+
 http://localhost:5173
-📸 App Screenshots
-💬 Chat Interface
-
-🔐 Login Page
-
-🏠 Dashboard
 
 🚀 Future Improvements
 AI integration with OpenAI API
