@@ -125,7 +125,7 @@ Cloud deployment (AWS / Vercel)
 
 👩‍💻 Developer
 Muskan Pathan
-BTech Computer Science & Engineering
+B.Tech Computer Science & Engineering
 Project: MERN Stack Virtual Assistant
 
 
